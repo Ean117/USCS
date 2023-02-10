@@ -1,0 +1,6 @@
+How to get a working bookmarklet
+Step 1. Find the javascript command for the bookmarklet you want to use
+Step 2. Highlight the entire line (Including the "javascript:" part)
+Step 3. Drag the highlighted text to your bookmarks bar. 
+Step 4. Rename the bookmarklet to the thing it does to avoid confusion. (Ex. name tab cloaking bookmarklet tab cloaking)
+Go to the Bookmarklets file to get the bookmarklets
